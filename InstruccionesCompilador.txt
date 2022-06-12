@@ -1,0 +1,11 @@
+a>2:
+b>1:
+y>a#b:
+imprimir y:
+y>a&b:
+imprimir y:
+y>a_b:
+imprimir y:
+y>a%b:
+imprimir y:
+salir:
